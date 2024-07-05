@@ -1,6 +1,6 @@
 # React - Flashcards
 
-# 🔗 [Live Preview]()
+# 🔗 [Live Preview](https://cool-sunshine-ee3086.netlify.app/)
 
 ![Design preview](public/preview.gif)
 
