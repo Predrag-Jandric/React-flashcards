@@ -5,6 +5,7 @@
 body {
   font-family: sans-serif;
   padding: 20px;
+  background-color: gray;
 }
 
 .flashcards {
@@ -27,8 +28,6 @@ body {
 }
 
 div.selected {
-  border: 1px solid #e03131;
-  background-color: #e03131;
-  color: #fff;
+  background-color: rgb(139, 231, 1);
   font-weight: bold;
 }
